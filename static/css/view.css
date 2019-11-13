@@ -1,0 +1,47 @@
+@font-face{
+	font-family : "Daum_Regular";
+	font-style: normal;
+    font-weight: normal;
+    src: url('/static/fonts/Daum_Regular.ttf');
+}
+.input-td {
+	height:30;
+	border-bottom:solid 1px;
+}
+
+.dropdown {
+	float:left;
+}
+
+.border{
+	border: 1px solid #535353;
+}
+.attendance_border{
+	border: 1px solid #535353;
+	text-align: center;
+}
+.tuti_table{
+	border: 1px solid #535353;
+	text-align:center;
+	background-color:#dcdcdc;
+}
+.calendar .days td {
+	width : 80px; height: 80px; padding: 4px;
+	border : 1px solid #5f5f5f;
+}
+
+.container		{ font-family:"Daum_Regular";  }
+.container > div:nth-child(2) div:nth-child(2) { padding-right:38px; }
+.container > div:first-child { background-color:#5e5e5e; color:#ffffff; font-size:14px; }
+.container > div:nth-child(2)	{background-color:#4c4c4c; color:#ffffff; font-size:24px;}
+.container > div:nth-child(2) ul li {text-align:center;}
+.container > div:nth-child(2) ul li a{ color:#ffffff;}
+.header_Topmenu_div{
+	float : right;
+}
+.header_logo{
+	width: 132px; 
+	margin-left: 51px;
+}
+
+/*12345*/
